@@ -1,0 +1,30 @@
+body {
+  background-image: url("slider2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 1
+
+}
+.dua {
+  width: 60%;
+  height: 20%;
+  padding: 10px;
+  background-color: white;
+float: right;
+position: sticky;
+
+
+
+
+}
+h1,
+p {
+  text-align: right;
+  font-weight: bold;
+}
+.satu {
+  z-index: 2
+}
+.dua {
+  z-index: 3
+}
